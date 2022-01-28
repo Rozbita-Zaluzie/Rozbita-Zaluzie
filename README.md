@@ -8,6 +8,10 @@ My small dream si to build factory game (something like factorio or rimworld).
 • I tried `HTML`, `CSS`, `Java`, `JavaScript`, `PHP` <br>
 • Currently working in `C#`, `Unity`, `Python`
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact)](https://github.com/Rozbita-Zaluzie/github-readme-stats)
+
+
 ## Social Sites
 [Instagram](https://instagram.com/rozbita_zaluzie/) <br>
 Discord - Rozbita_Zaluzie#2703
