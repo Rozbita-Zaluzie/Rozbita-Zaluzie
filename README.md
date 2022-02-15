@@ -9,7 +9,7 @@ My small dream si to build factory game (something like factorio or rimworld).
 • Currently working in `C#`, `HTML`, `CSS`, `Python`
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact)](https://github.com/Rozbita-Zaluzie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact&langs_count=8)](https://github.com/Rozbita-Zaluzie/github-readme-stats)
 
 
 ## Social Sites
