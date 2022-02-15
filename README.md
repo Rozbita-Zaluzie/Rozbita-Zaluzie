@@ -5,8 +5,8 @@ Now im working in Unity trying to make 2D simple games and in Python with random
 My small dream si to build factory game (something like factorio or rimworld).
 
 ## Programing
-• I tried `HTML`, `CSS`, `Java`, `JavaScript`, `PHP` <br>
-• Currently working in `C#`, `Unity`, `Python`
+• I tried `Java`, `JavaScript`, `PHP`, `Unity` <br>
+• Currently working in `C#`, `HTML`, `CSS`, `Python`
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact)](https://github.com/Rozbita-Zaluzie/github-readme-stats)
