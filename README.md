@@ -11,7 +11,7 @@ My small dream si to build factory game (something like factorio or rimworld).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact&langs_count=8)](https://github.com/Rozbita-Zaluzie/github-readme-stats)
  
-[![​Anurag's GitHub stats​](https://github-readme-stats.vercel.app/api?username=venseyscode)](https://github.com/anuraghazra/github-readme-stats)
+[![​Anurag's GitHub stats​](https://github-readme-stats.vercel.app/api?username=Rozbita-Zaluzie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Sites
 [Instagram](https://instagram.com/rozbita_zaluzie/) <br>
