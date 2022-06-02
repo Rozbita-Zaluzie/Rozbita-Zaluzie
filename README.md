@@ -55,10 +55,10 @@
 <div align="center">
 
 <a align="center" href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
- <img align="center" width="60" src="assets/Instagram_logo.png">
+ <img align="center" width="50" src="assets/Instagram_logo.png">
 </a>
-
+⠀
 <a align="center" href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
- <img align="center" width="60" src="assets/Discord_logo.png">
+ <img align="center" width="50" src="assets/Discord_logo.png">
 </a>
  </div>
