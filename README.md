@@ -1,11 +1,21 @@
 
+<p align="center">
+<img align="center" src="assets/myLogo.png" width="100">
+ </p>
 
-<img align="center" src="">
+<h2 align="center">
+ Hi my name is Rozbita Zaluzie
+ </h2>
+ 
+ <h4 align="center"> I'm learning programing, web development, game making and sometimes 3D art</h4>
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozbita-Zaluzie&layout=compact&langs_count=8&bg_color=0d1117&text_color=cccccc&title_color=eeeeee&border_color=0d1117" />
-</p>
+  
+<img align="center" src="assets/myLogo.png" width="100">
+  <img align="center" src="assets/myLogo.png" width="100">
+  <img align="center" src="assets/myLogo.png" width="100">
+ </p>
 
 ## Social Sites
 [Instagram](https://instagram.com/rozbita_zaluzie/) <br>
