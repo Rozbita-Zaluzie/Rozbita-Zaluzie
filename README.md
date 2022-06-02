@@ -36,34 +36,27 @@
   <h3 align="center">IDEs / Tools<br></h3>
  <div align="center">
    <img src="assets/Git_logo.png" width="30">⠀
+ <img src="assets/VSC_logo.png" width="30">⠀
+ <img src="assets/VS_logo.png" width="30">⠀
+ <img src="assets/Figma_logo.png" width="30">⠀
  <img src="assets/Unity_logo.png" width="30">⠀
  <img src="assets/Blender_logo.png" width="30">⠀
  </div>
- 
- 
-  
- 
- <br>
- <br>
- 
 
- 
- 
- 
- 
- </div>
- 
  <br>
  <br>
  <br>
-
-<div align="left">asdas<div align="right">asdas</div></div>
 
 
 <h2 align="center">
  You can contact me on
  </h2>
  
-<a href="mailto:restik.nosek@gmail.com">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="Instagram_logo.png" />
+
+<a href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
+ <img src="assets/Instagram_logo.png">
+</a>
+
+<a href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
+ <img src="assets/Discord_logo.png">
 </a>
