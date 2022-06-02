@@ -4,7 +4,7 @@
  </p>
 
 <h2 align="center">
- Hi my name is Rozbita Zaluzie
+ Hi, my name is Rozbita Zaluzie
  </h2>
  
  <h4 align="center"> I'm learning programing, web development, game making and sometimes 3D art</h4>
