@@ -39,8 +39,8 @@
  <img src="assets/VSC_logo.png" width="30">⠀
  <img src="assets/VS_logo.png" width="30">⠀
  <img src="assets/Figma_logo.png" width="30">⠀
- <img src="assets/Unity_logo.png" width="30">⠀
- <img src="assets/Blender_logo.png" width="30">⠀
+ <img src="assets/Unity_logo.png" height="30">⠀
+ <img src="assets/Blender_logo.png" height="30">⠀
  </div>
 
  <br>
