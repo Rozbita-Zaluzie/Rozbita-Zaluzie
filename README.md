@@ -33,6 +33,6 @@
  You can contact me on
  </h2>
  
-<a href="mailto:restik.nosek@gmail.com">
+<a href="https://discord.gg/w73RkzA9U6">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="mailto:restik.nosek@gmail.com" />
 </a>
