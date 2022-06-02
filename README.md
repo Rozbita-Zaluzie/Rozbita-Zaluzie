@@ -46,11 +46,10 @@
  <br>
  <br>
  <br>
+ <br>
 
 
-<h2 align="center">
- You can contact me on
- </h2>
+---
 
 <div align="center">
 
