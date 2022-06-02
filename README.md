@@ -51,12 +51,14 @@
 <h2 align="center">
  You can contact me on
  </h2>
- 
 
-<a href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
- <img src="assets/Instagram_logo.png">
-</a>
+<div align="center">
 
-<a href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
- <img src="assets/Discord_logo.png">
+<a align="center" href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
+ <img align="center" width="50" src="assets/Instagram_logo.png">
 </a>
+⠀
+<a align="center" href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
+ <img align="center" width="50" src="assets/Discord_logo.png">
+</a>
+ </div>
