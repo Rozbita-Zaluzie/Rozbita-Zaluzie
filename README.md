@@ -10,13 +10,60 @@
  <h4 align="center"> I'm learning programing, web development, game making and sometimes 3D art</h4>
 
 
-<p align="center">
-  
-<img align="center" src="assets/myLogo.png" width="100">
-  <img align="center" src="assets/myLogo.png" width="100">
-  <img align="center" src="assets/myLogo.png" width="100">
- </p>
 
-## Social Sites
-[Instagram](https://instagram.com/rozbita_zaluzie/) <br>
-Discord - Rozbita_Zaluzie#2703
+ <br>
+ 
+  <h3 align="center">Front-end<br></h3>
+ <div align="center">
+   <img src="assets/HTML_logo.png" width="30">⠀
+   <img src="assets/CSS_logo.png" width="30">⠀
+   <img src="assets/JS_logo_2.png" width="30">
+ </div><br>
+  
+  <h3 align="center">Back-end / Databases<br></h3>
+ <div align="center">
+  <img src="assets/PHP_logo.png" width="40">⠀
+  <img src="assets/MySQL_logo.png" width="30">⠀
+ </div><br>
+ 
+  <h3 align="center">Programing<br></h3>
+ <div align="center">
+    <img src="assets/Python_logo.png" width="30">⠀
+ <img src="assets/Java_logo.png" width="30">⠀
+ <img src="assets/Cs_logo.png" width="30">⠀
+ </div><br>
+ 
+  <h3 align="center">IDEs / Tools<br></h3>
+ <div align="center">
+   <img src="assets/Git_logo.png" width="30">⠀
+ <img src="assets/Unity_logo.png" width="30">⠀
+ <img src="assets/Blender_logo.png" width="30">⠀
+ </div>
+ 
+ 
+  
+ 
+ <br>
+ <br>
+ 
+
+ 
+ 
+ 
+ 
+ </div>
+ 
+ <br>
+ <br>
+ <br>
+
+<div align="left">asdas<div align="right">asdas</div></div>
+
+
+<h2 align="center">
+ You can contact me on
+ </h2>
+ 
+<a href="mailto:restik.nosek@gmail.com">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="Instagram_logo.png" />
+</a>
