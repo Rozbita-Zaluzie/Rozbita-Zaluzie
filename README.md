@@ -53,4 +53,10 @@
  </h2>
  
 
-<a href="mailto:restik.nosek@gmail.com">asd</a>
+<a href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
+ <img src="assets/Instagram_logo.png">
+</a>
+
+<a href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
+ <img src="assets/Discord_logo.png">
+</a>
