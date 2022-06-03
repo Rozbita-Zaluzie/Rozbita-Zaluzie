@@ -4,7 +4,7 @@
  </p>
 
 <h2 align="center">
- Hi my name is Rozbita Zaluzie
+ Hi, my name is Rozbita Zaluzie
  </h2>
  
  <h4 align="center"> I'm learning programing, web development, game making and sometimes 3D art</h4>
@@ -39,26 +39,28 @@
  <img src="assets/VSC_logo.png" width="30">⠀
  <img src="assets/VS_logo.png" width="30">⠀
  <img src="assets/Figma_logo.png" width="30">⠀
- <img src="assets/Unity_logo.png" width="30">⠀
- <img src="assets/Blender_logo.png" width="30">⠀
+ <img src="assets/Unity_logo.png" height="30">⠀
+ <img src="assets/Blender_logo.png" height="30">⠀
  </div>
 
  <br>
  <br>
- <br>
 
 
-<h2 align="center">
- You can contact me on
- </h2>
+
+---
 
 <div align="center">
 
-<a align="center" href="https://www.instagram.com/rozbita_zaluzie/" alt="Zaluzie's Instagram">
+<a align="center" href="https://www.instagram.com/rozbita_zaluzie/">
  <img align="center" width="50" src="assets/Instagram_logo.png">
 </a>
 ⠀
-<a align="center" href="https://discord.gg/w73RkzA9U6" alt="Zaluzie's Discord">
+<a align="center" href="https://discord.gg/w73RkzA9U6">
  <img align="center" width="50" src="assets/Discord_logo.png">
 </a>
- </div>
+⠀
+<a align="center" href="mailto:restik.nosek@gmail.com">
+ <img align="center" width="50" src="assets/Email_logo.png">
+</a>
+
