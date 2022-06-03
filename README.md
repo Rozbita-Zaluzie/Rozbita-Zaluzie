@@ -60,3 +60,4 @@
  <img align="center" width="50" src="assets/Discord_logo.png">
 </a>
  </div>
+<a href="mailto:emersonpess011108@gmail.com?">r</a>
