@@ -61,6 +61,6 @@
 </a>
 ⠀
 <a align="center" href="mailto:restik.nosek@gmail.com">
- <img align="center" width="50" src="assets/Discord_logo.png">
+ <img align="center" width="50" src="assets/Email_logo.png">
 </a>
 
