@@ -59,7 +59,7 @@
 <a align="center" href="https://discord.gg/w73RkzA9U6">
  <img align="center" width="50" src="assets/Discord_logo.png">
 </a>
-
+⠀
 <a align="center" href="mailto:restik.nosek@gmail.com">
  <img align="center" width="50" src="assets/Discord_logo.png">
 </a>
