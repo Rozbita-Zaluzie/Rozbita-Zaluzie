@@ -23,7 +23,8 @@
   <h3 align="center">Back-end / Databases<br></h3>
  <div align="center">
   <img src="assets/PHP_logo.png" width="40">⠀
-  <img src="assets/MySQL_logo.png" width="30">⠀
+  <img src="assets/MySQL_logo.png" width="30">
+  <img src="assets/MongoDB_logo.png" width="30">
  </div><br>
  
   <h3 align="center">Programing<br></h3>
