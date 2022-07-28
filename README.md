@@ -24,7 +24,7 @@
  <div align="center">
   <img src="assets/PHP_logo.png" width="40">⠀
   <img src="assets/MySQL_logo.png" width="30">
-  <img src="assets/MongoDB_logo.png" width="30">
+  <img src="assets/MongoDB_logo.png" width="32">
  </div><br>
  
   <h3 align="center">Programing<br></h3>
