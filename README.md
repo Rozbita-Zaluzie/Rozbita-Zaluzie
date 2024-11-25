@@ -11,41 +11,6 @@
 
 
 
- <br>
- 
-  <h3 align="center">Front-end<br></h3>
- <div align="center">
-   <img src="assets/HTML_logo.png" width="30">⠀
-   <img src="assets/CSS_logo.png" width="30">⠀
-   <img src="assets/JS_logo_2.png" width="30">
- </div><br>
-  
-  <h3 align="center">Back-end / Databases<br></h3>
- <div align="center">
-  <img src="assets/PHP_logo.png" width="40">⠀
-  <img src="assets/MySQL_logo.png" width="30">
-  <img src="assets/MongoDB_logo.png" width="32">
- </div><br>
- 
-  <h3 align="center">Programing<br></h3>
- <div align="center">
-    <img src="assets/Python_logo.png" width="30">⠀
- <img src="assets/Java_logo.png" width="30">⠀
- <img src="assets/Cs_logo.png" width="30">⠀
- </div><br>
- 
-  <h3 align="center">IDEs / Tools<br></h3>
- <div align="center">
-   <img src="assets/Git_logo.png" width="30">⠀
- <img src="assets/VSC_logo.png" width="30">⠀
- <img src="assets/VS_logo.png" width="30">⠀
- <img src="assets/Figma_logo.png" width="30">⠀
- <img src="assets/Unity_logo.png" height="30">⠀
- <img src="assets/Blender_logo.png" height="30">⠀
- </div>
-
- <br>
- <br>
 
 
 
